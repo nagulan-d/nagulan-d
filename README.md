@@ -82,8 +82,14 @@ An AI-powered platform that analyzes business data, identifies trends and risks,
 <!-- GITHUB STATISTICS -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagulan-d&show_icons=true&hide_border=false&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF&icon_color=BD93F9&text_color=E6EDF3" height="180" alt="GitHub Statistics"/>
-  <img src="https://streak-stats.demolab.com?user=nagulan-d&hide_border=false&border=BD93F9&background=0D1117&ring=00E5FF&fire=FF4D6D&currStreakLabel=39FF14&sideLabels=BD93F9&currStreakNum=FFFFFF&sideNums=00E5FF&dates=8B949E" height="180" alt="GitHub Contribution Streak"/>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nagulan-d&show_icons=true&hide_border=false&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF&icon_color=BD93F9&text_color=E6EDF3" height="180" alt="GitHub Statistics"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=nagulan-d&hide_border=false&border=BD93F9&background=0D1117&ring=00E5FF&fire=FF4D6D&currStreakLabel=39FF14&sideLabels=BD93F9&currStreakNum=FFFFFF&sideNums=00E5FF&dates=8B949E" height="180" alt="GitHub Contribution Streak"/>
+    </td>
+  </tr>
+</table>
 
