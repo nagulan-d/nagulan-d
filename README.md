@@ -1,16 +1,19 @@
-## Hi there 👋
+```html
+<div align="center">
 
-<!--
-**nagulan-d/nagulan-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img
+    src="./assets/space42-banner.png"
+    width="100%"
+    alt="Nagulan D - Technology Profile Banner"
+  />
 
-Here are some ideas to get you started:
+  <h1>Hi, I'm Nagulan D 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>Python Developer | Generative AI | Software Development</h3>
+
+  <p>
+    Building practical software and exploring intelligent AI solutions.
+  </p>
+
+</div>
+```
