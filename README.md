@@ -78,3 +78,12 @@ An AI-powered system that detects data-quality issues, analyzes ETL errors, iden
 An AI-powered platform that analyzes business data, identifies trends and risks, tracks KPIs, and generates strategic insights and recommendations.
 
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=58A6FF" alt="Pandas"/> <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=58A6FF" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="FastAPI"/> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React"/>
+
+<!-- GITHUB STATISTICS -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagulan-d&show_icons=true&hide_border=false&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF&icon_color=BD93F9&text_color=E6EDF3" height="180" alt="GitHub Statistics"/>
+  <img src="https://streak-stats.demolab.com?user=nagulan-d&hide_border=false&border=BD93F9&background=0D1117&ring=00E5FF&fire=FF4D6D&currStreakLabel=39FF14&sideLabels=BD93F9&currStreakNum=FFFFFF&sideNums=00E5FF&dates=8B949E" height="180" alt="GitHub Contribution Streak"/>
+</p>
+
