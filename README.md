@@ -7,6 +7,31 @@
   />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nagulan-d-84b197258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/nagulan-d" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://nagulan-d.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:naguland.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<!-- ABOUT ME -->
+<h2 align="left">👨‍💻 About Me</h2>
+
+- 🎓 B.Tech in Information Technology graduate from Kumaraguru College of Technology, 2026.
+- 💻 Focused on Python development, Generative AI, and AI-powered software solutions.
+- 🤖 Exploring LLMs, Retrieval-Augmented Generation (RAG), and AI agent development.
+- 🛠️ Developing practical projects that combine AI technologies with software engineering.
+- 🚀 Aspiring to contribute to innovative projects as a Python Developer or Generative AI Engineer.
+- 📈 Committed to continuous learning, problem-solving, and building reliable, scalable applications.
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -33,4 +58,23 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
 
+<!-- FEATURED PROJECTS -->
+<h2 align="left">🚀 Featured Projects</h2>
 
+<h3 align="left">1. AI Enterprise Knowledge Intelligence & Decision Copilot</h3>
+
+An AI-powered assistant that uses RAG to search business documents, answer questions with source references, summarize content, and generate actionable insights.
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="FastAPI"/> <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=58A6FF" alt="LangChain"/> <img src="https://img.shields.io/badge/Vector_DB-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Vector Database"/> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React"/>
+
+<h3 align="left">2. AI Data Quality & Root-Cause Analysis Copilot</h3>
+
+An AI-powered system that detects data-quality issues, analyzes ETL errors, identifies possible root causes, and recommends corrective solutions.
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=58A6FF" alt="Pandas"/> <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" alt="SQL"/> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="FastAPI"/> <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge&logo=googlegemini&logoColor=58A6FF" alt="Generative AI"/>
+
+<h3 align="left">3. AI Business Strategy & Executive Decision Intelligence Platform</h3>
+
+An AI-powered platform that analyzes business data, identifies trends and risks, tracks KPIs, and generates strategic insights and recommendations.
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python"/> <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=58A6FF" alt="Pandas"/> <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=58A6FF" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="FastAPI"/> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React"/>
